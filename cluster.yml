@@ -10,7 +10,7 @@ nodeGroups:
      desiredCapacity: 1
      instanceType: t2.micro
      ssh:
-        publicKeyName: ros
+        publicKeyName: Gen
    - name: ng2
      desiredCapacity: 1
      instanceType: t2.small
